@@ -36,7 +36,7 @@ Steps:
 9. Add the Move Camera script to the Camera object and drag in the HEAD object into the slot available.
 10. Make a new layer called GROUND.(user layers)
 11. In the script choose GROUND in the field WHAT IS GROUND?.
-12. Add all of the ground elements(the ones you want to walk on) on teh GROUND layer.
+12. Add all of the ground elements(the ones you want to walk on) on the GROUND layer.
 13. ENJOY THE AWESOMENESS!!
 
 
