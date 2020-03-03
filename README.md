@@ -1,7 +1,8 @@
 # Rigidbody-FPS-Controller
 Rigidbody FPS Controller for Unity3D. 
 
-Modified version of DaniDev's Rigidbody FPS Controller
+Modified version of DaniDev's Rigidbody FPS Controller.
+Original tutorial : https://www.youtube.com/watch?v=XAC8U9-dTZU&t=1s
 DANI YOU ABSOLUTE MONSTER!!
 
 Allowed movement while crouching.
