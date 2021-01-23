@@ -2,6 +2,7 @@
 Rigidbody FPS Controller for Unity3D. 
 
 Modified version of DaniDev's Rigidbody FPS Controller.
+
 Original tutorial : https://www.youtube.com/watch?v=XAC8U9-dTZU&t=1s
 DANI YOU ABSOLUTE MONSTER!!
 
@@ -47,5 +48,5 @@ Also included is a file that allows for a better feeling and more responsive and
 I really suggest you use this, it makes jumping feel so much more video game like and organic.
 
 Cheers,
-Tripwire
+trip
 
