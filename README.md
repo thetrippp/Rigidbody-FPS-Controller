@@ -4,6 +4,7 @@ Rigidbody FPS Controller for Unity3D.
 Modified version of DaniDev's Rigidbody FPS Controller.
 
 Original tutorial : https://www.youtube.com/watch?v=XAC8U9-dTZU&t=1s
+
 DANI YOU ABSOLUTE MONSTER!!
 
 Controller:
@@ -44,7 +45,9 @@ Steps:
 15. Apply this material to all the mesh renderer of all the GROUND elements.
 
 
-Also included is a file that allows for a better feeling and more responsive and tactile jumping from the tutorial by BOARD TO BITS GAMES: https://www.youtube.com/watch?v=7KiK0Aqtmzc
+Also included is a file that allows for a better feeling and more responsive and tactile jumping from the tutorial by BOARD TO BITS GAMES
+
+Link: https://www.youtube.com/watch?v=7KiK0Aqtmzc
 I really suggest you use this, it makes jumping feel so much more video game like and organic.
 
 Cheers,
